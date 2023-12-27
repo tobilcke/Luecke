@@ -1,0 +1,94 @@
+.none {
+  display: none;
+}
+
+
+/*desktop*/
+@media (min-width: 767px) {
+  .logo-margin {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+}
+
+/*smartphone und tablet*/
+@media (max-width: 767px) {
+  .logo-margin {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+.firma-img {
+  background: url("../images/firma.jpg") center center no-repeat;
+  background-size: cover;
+}
+
+.symbol {
+  width: 2.8em;
+  height: 2.8em;
+  border-radius: 50%;
+}
+
+.car{
+  background: url("../images/map.jpg") no-repeat center center black;
+}
+
+.phone {
+  background: url("../images/phone-call.jpg") no-repeat center center black;
+}
+
+/*table and desktop*/
+@media only screen and (min-width: 767px) {
+  .symbol {
+    display: none;
+  }
+}
+
+/*smartphone*/
+@media only screen and (max-width: 767px) {
+  .symbol {
+    display: inline-block;
+
+  }
+}
+/*navigationsbar*/
+.nav-item{
+  scroll-margin-top: 40px;
+}
+
+#about1{
+  scroll-margin-top: 160px;
+}
+
+#benefit1{
+  scroll-margin-top: 160px;
+}
+
+#ref1{
+  scroll-margin-top: 160px;
+}
+
+#career1{
+  scroll-margin-top: 160px;
+}
+
+#contact1{
+  scroll-margin-top: 160px;
+}
+
+#impressum1{
+  scroll-margin-top: 160px;
+}
+
+#start1{
+  scroll-margin-top: 160px;
+}
+
