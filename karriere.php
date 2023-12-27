@@ -63,6 +63,9 @@
                         <li class="nav-item">
                             <a class="nav-link" href=index.php#impressum1>Impressum</a>
                         </li>
+                        <li class="nav-item">
+                            <a class="nav-link smooth-goto" href="Datenschutz.php">Datenschutz</a>
+                        </li>
                     </ul>
                 </div>
                 <div>
@@ -167,21 +170,21 @@
             </div>
             <div class="row">
                 <div class="col-md-6" id="jobs">
-                    <p>Wir suchen erfahrene Monteure zur Verstärkung unseres Teams. Als Trockenausbau-Firma legen wir großen Wert auf Qualität und Kundenzufriedenheit, daher suchen wir erfahrene Fachkräfte im Baugewerbe, wie Trockenbauer, Tischler, Zimmerleute oder vergleichbare Berufe. Quereinsteiger können wir leider nicht berücksichtigen.</p>
+                    <p>Wir suchen erfahrene Monteure zur Verstärkung unseres Teams. Als Trockenausbau-Firma legen wir großen Wert auf Qualität und Kundenzufriedenheit, daher suchen wir erfahrene Fachkräfte im Baugewerbe, wie Trockenbauer, Tischler, Zimmerleute oder vergleichbare Berufe.</p>
 
                     <p>Deine Aufgaben:</p>
                     <ul>
                         <li>Montage von Trockenbauwänden und -decken</li>
                         <li>Einbau von Dämmstoffen und Dampfbremsen</li>
                         <li>Montage von Türen und Fenstern</li>
-                        <li>Oberflächenbearbeitung (Spachteln, Schleifen, Lackieren)</li>
+                        <li>Oberflächenbearbeitung (Spachteln, Schleifen und weiteres)</li>
                     </ul>
 
-                    <p>Deine Profil:</p>
+                    <p>Dein Profil:</p>
                     <ul>
-                        <li>Abgeschlossene Ausbildung im Baugewerbe oder vergleichbare Qualifikation</li>
-                        <li>Erfahrung in der Montage von Trockenbauwänden und -decken</li>
-                        <li>Kenntnisse in der Oberflächenbearbeitung von Trockenbaukonstruktionen</li>
+                        <li>Erfahrung im Baugewerbe</li>
+                        <li>Kenntnisse in der Montage von Trockenbauwänden -decken</li>
+                        <li style="list-style-type: none;">sowie Erfahrungen in der Oberflächenbearbeitung von Trockenbaukonstruktionen</li>
                         <li>Handwerkliches Geschick und hohes Qualitätsbewusstsein</li>
                         <li>Teamfähigkeit und zuverlässige Arbeitsweise</li>
                     </ul>
@@ -191,14 +194,13 @@
                         <li>Abwechslungsreiche Tätigkeiten auf Baustellen in der Region</li>
                         <li>Ein dynamisches Team und ein angenehmes Arbeitsumfeld</li>
                         <li>Eine sehr gute Bezahlung und gute Arbeitsbedingungen</li>
-                        <li>Fortbildungsmöglichkeiten und Aufstiegschancen</li>
                     </ul>
                     <br>
                     <br>
                 </div>
                 <div class="col-md-6" id="ausbildung">
                     <p>Wenn du einen abgeschlossenen Hauptschulabschluss hast und Interesse am Handwerk mitbringst, bist du bei uns genau richtig.</p>
-                    <p>Als angehende/r Trockenbaumonteur/in verbringst du deine Ausbildungsdauer von drei Jahren damit, Wände und Decken mit verschiedenen Materialien wie Holz, Kunststoff und anderen Werkstoffen zu verkleiden. Dabei bist du für die Herstellung der erforderlichen Unterkonstruktionen zuständig und ziehst neue Zwischenwände ein, hängst Decken tiefer oder verkleidest Mauern mithilfe spezieller Leichtbausysteme. Du wirst auch Dämmmaterialien zur Verbesserung der Wärmedämmung oder der Akustik einbauen, Trockenestriche verlegen, Fenster, Türen oder Verglasungselemente einbauen und Beleuchtungsdecken und -körper montieren.</p>
+                    <p>Als angehende/r Trockenbaumonteur/in verbringst du deine Ausbildungsdauer von drei Jahren damit, Wände und Decken mit verschiedenen Materialien wie Gipskarton, Holz und anderen Werkstoffen zu verkleiden. Dabei bist du für die Herstellung der erforderlichen Unterkonstruktionen zuständig und ziehst neue Zwischenwände ein, hängst Decken tiefer oder verkleidest Mauern mithilfe spezieller Leichtbausysteme. Du wirst auch Dämmmaterialien zur Verbesserung der Wärmedämmung oder der Akustik einbauen, Trockenestriche verlegen, Fenster, Türen oder Verglasungselemente einbauen.</p>
                     <p>Unser Ziel ist es, dir eine professionelle Ausbildung in einem dynamischen und innovativen Arbeitsumfeld zu bieten. Wir werden dich mit unseren erfahrenen und qualifizierten Ausbildern unterstützen und dir die Möglichkeit geben, dein handwerkliches Geschick zu perfektionieren. Du wirst auch die Chance haben, an Fortbildungsmaßnahmen teilzunehmen und deine Fähigkeiten weiterzuentwickeln.</p>
                     <br>
                 </div>
@@ -208,7 +210,7 @@
                 </div>
 
                 <div class="col-md-8" id="bewerbung">
-                    <p>Bist du bereit, Teil unseres Teams zu werden und deine Karriere im Trockenausbau zu beginnen? Dann bewirb dich jetzt bei uns und schicke uns deine Bewerbungsunterlagen per E-Mail an <a href="mailto:ausbildung@luecke-trockenaubau.de">ausbildung@luecke-trockenaubau.de</a>. Wir freuen uns darauf, dich kennenzulernen und gemeinsam mit dir zu wachsen!</p>
+                    <p>Bist du bereit, Teil unseres Teams zu werden und deine Karriere im Trockenausbau zu beginnen? Dann bewirb dich jetzt bei uns und schicke uns deine Bewerbungsunterlagen per E-Mail an <br> <a href="mailto:karriere@luecke-trockenaubau.de">karriere@luecke-trockenaubau.de</a>. Wir freuen uns darauf, dich kennenzulernen und gemeinsam mit dir zu wachsen!</p>
                 </div>
             </div>
         </div>
